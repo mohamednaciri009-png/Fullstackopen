@@ -94,7 +94,7 @@ const App = () => {
     </div>
 
     <hr />
-    {/* anecdote */}
+    {/* anecdote  */}
     <div>
       <h1>Anecdote of the day</h1>
         <p>{anecdotes[selected]}</p>
